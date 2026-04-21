@@ -1,0 +1,2 @@
+# Logica_de_programacion
+curso Logica_de_programacion
